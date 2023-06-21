@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariopfaff&label=Profile%20views&color=000000&style=plastic" alt="mariopfaff" /> </p>
 
-- 💼 I’m currently working on [TicketFlow](https://github.com/MarioPfaff/TicketFlow)!
+- 💼 I’m currently working on [TicketFlow](https://github.com/MarioPfaff/TicketFlow)
 
 - 🌱 I’m currently learning **Ruby, Ruby on Rails, Vue**!
 
-- 👨‍💻 All of my projects are available at [https://mariopfaff.com/](https://mariopfaff.com/)!
+- 👨‍💻 All of my projects are available at [https://mariopfaff.com/](https://mariopfaff.com/)
 
 - 💬 Ask me about **Ruby on Rails**!
 
