@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Ruby on Rails**!
 
-- 📫 Reach me at my e-mailaddress: **mariojuliaanpfaff@gmail.com**
+- 📫 Reach out to me via my e-mail: **mariojuliaanpfaff@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
