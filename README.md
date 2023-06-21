@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mario Pfaff</h1>
+<h1 align="center">Hi 👋, I'm Mario Juliaan Pfaff</h1>
 <h3 align="center">A passionate software developer from the Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariopfaff&label=Profile%20views&color=000000&style=plastic" alt="mariopfaff" /> </p>
