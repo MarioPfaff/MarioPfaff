@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mario Juliaan Pfaff</h1>
+<h1 align="center">Hi 👋, I'm Mario Pfaff</h1>
 <h3 align="center">A passionate software developer from the Netherlands 🇳🇱</h3>
 <p align="center">Experienced software developer specializing in web apps with a passion for creating scalable, user-centric solutions. Started coding at 11 with BYOND for 2D games. Currently focused on Ruby on Rails and building TicketFlow, a streamlined ticketing application for organizations. Lifelong learner staying up-to-date with the latest technologies. Let's collaborate!</p>
 
