@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mario Juliaan Pfaff</h1>
 <h3 align="center">A passionate software developer from the Netherlands 🇳🇱</h3>
-<p align="center">Experienced software developer specializing in web apps with a passion for creating robust, user-centric solutions. Started coding at 11 with BYOND for 2D games. Currently focused on Ruby on Rails and building TicketFlow, a streamlined ticketing application for organizations. Lifelong learner staying up-to-date with the latest technologies. Let's collaborate and build remarkable web applications together!</p>
+<p align="center">Experienced software developer specializing in web apps with a passion for creating scalable, user-centric solutions. Started coding at 11 with BYOND for 2D games. Currently focused on Ruby on Rails and building TicketFlow, a streamlined ticketing application for organizations. Lifelong learner staying up-to-date with the latest technologies. Let's collaborate!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariopfaff&label=Profile%20views&color=000000&style=plastic" alt="mariopfaff" /> </p>
 
