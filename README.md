@@ -6,9 +6,7 @@
 
 - 💼 I’m currently working on [TicketFlow](https://github.com/MarioPfaff/TicketFlow)
 
-- 🌱 I’m currently learning **Ruby, Ruby on Rails, Vue**!
-
-- 👨‍💻 All of my projects are available at [https://mariopfaff.com/](https://mariopfaff.com/)
+- 🌱 I’m currently learning **Ruby, Ruby on Rails, Laravel, Vue**!
 
 - 💬 Ask me about **Ruby on Rails**!
 
