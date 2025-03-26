@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mario Pfaff</h1>
-<h3 align="center">Software Developer</h3>
-<p align="center">Experienced software developer specializing in web apps with a passion for creating scalable, DRY solutions. Started coding at eleven years old with C building 2D games. Currently focused on Laravel, Tailwind, and designing robust backend infrastructures. As a lifelong learner dedicated to growth, I am expanding my expertise in backend architecture and infrastructure design. With a strong foundation in Laravel and PHP, I aim to create innovative solutions that are both efficient and effective.</p>
+<h3 align="center">Backend Developer (Medior)</h3>
+<p align="center">Software developer specializing in web apps with a passion for creating scalable, DRY solutions. Started coding at eleven years old with C building 2D games. Currently focused on Laravel, Tailwind, and designing robust backend infrastructures. As a lifelong learner dedicated to growth, I am expanding my expertise in backend architecture and infrastructure design. With a strong foundation in Laravel and PHP, I aim to create innovative solutions that are both efficient and effective.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariopfaff&label=Profile%20views&color=000000&style=plastic" alt="mariopfaff" /> </p>
 
