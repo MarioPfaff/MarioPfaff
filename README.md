@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariopfaff&label=Profile%20views&color=000000&style=plastic" alt="mariopfaff" /> </p>
 
-- 🌱 I’m currently learning **Software Architecture and Algorithms**!
+🌱 I’m currently diving into Software Architecture, Algorithm Design, and Game Reverse Engineering for a hobby, with a focus on x86 assembly and automating exploits using Python.
 
-- 💬 Ask me about **Laravel, Backend Infrastructure Design, and Design Principles**!
+💬 Ask me about **Laravel, Backend Infrastructure Design and Design Principles**!
 
-- 📫 Reach out to me via my e-mail: **mariojuliaanpfaff@gmail.com**
+📫 Reach out to me via my e-mail: **mariojuliaanpfaff@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
