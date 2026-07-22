@@ -103,13 +103,3 @@ I started programming at eleven by experimenting with C and building small 2D ga
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
   </a>
 </p>
-
-### GitHub statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariopfaff&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="Mario's most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariopfaff&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="Mario's GitHub statistics" />
-</p>
