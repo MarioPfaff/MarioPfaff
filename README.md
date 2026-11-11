@@ -15,7 +15,7 @@ I'm a software engineer interested in back-end systems, software architecture, a
 
 My interest in programming first sparked when I was eleven, experimenting with 2D game development using Dream Maker, BYOND's object-oriented scripting language for multiplayer games. What began as a childhood curiosity gradually grew into a career in software engineering.
 
-Today, I work primarily with PHP and Laravel, developing integration and automation systems alongside reusable application infrastructure. I also focus on improving code quality through automated testing and static analysis, while creating tooling to streamline the developer experience.
+Today, I work primarily with PHP and Laravel, developing integration and automation systems alongside reusable application infrastructure. I also focus on code quality through automated testing and static analysis, while creating custom tooling to improve the developer experience.
 
 Outside of work, I'm exploring embedded C++, low-level programming, and the intersection of software and hardware.
 
