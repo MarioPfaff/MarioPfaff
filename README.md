@@ -1,30 +1,26 @@
- <div align="center">
+<div align="center">
 
 # Mario Pfaff
 
-### Software Engineer
-Architecture · Reliability · Maintainable Systems
+**Software Engineer**
 
-[LinkedIn](https://linkedin.com/in/mario-pfaff-1768061ba/) ·
-[Email](mailto:mariojuliaanpfaff@gmail.com)
+Architecture · Reliability · Maintainability
 
----
-
-**Backend Engineering** · **Systems Programming** · **Embedded C++**
+[LinkedIn](https://linkedin.com/in/mario-pfaff-1768061ba/) · [Email](mailto:mariojuliaanpfaff@gmail.com)
 
 </div>
 
+---
+
 ## About Me
 
-I'm a backend engineer working primarily with PHP, Laravel, PostgreSQL, and Redis.
+I'm a backend software engineer working primarily with PHP, Laravel, PostgreSQL, and Redis. My professional experience includes designing and maintaining production applications, developing API integrations, improving software architecture, and working with automated testing, CI/CD, and infrastructure.
 
-My professional experience includes designing and maintaining production applications, API integrations, database architecture, automated testing, CI/CD, and backend infrastructure.
+My interest in programming started at eleven, when I began experimenting with small 2D games using BYOND's Dream Maker language. What began as curiosity eventually developed into a professional career in software engineering.
 
-I started programming at eleven, experimenting with small 2D games using BYOND's Dream Maker language.
+More recently, I've been exploring low-level programming, computer architecture, and the interaction between software and hardware. I'm currently learning embedded C++ through independent projects, with an interest in understanding and developing the systems that make technology work.
 
-Today, I'm increasingly interested in low-level programming, computer architecture, and understanding how software interacts with hardware.
-
-## Technology Stack
+## Technical Experience
 
 **Backend & Databases**  
 PHP · Laravel · PostgreSQL · Redis
@@ -33,25 +29,15 @@ PHP · Laravel · PostgreSQL · Redis
 Vue.js · TypeScript · Tailwind CSS
 
 **Infrastructure & Tooling**  
-Azure · Linux · Docker · GitHub Actions
+Azure · Linux · Docker · Git · GitHub Actions
 
 **Currently Exploring**  
 C++ · ESP-IDF · Embedded Systems
 
-## Featured Project
+---
 
-### Frankensynth
+<div align="center">
 
-An ongoing embedded C++ synthesizer project using the ESP32.
+*Interested in software architecture, systems programming, and engineering.*
 
-Exploring firmware development, hardware interfaces, digital audio, and electronics.
-
-<details>
-<summary><b>More about my technical interests</b></summary>
-
-- Systems programming
-- Computer architecture
-- Hardware/software integration
-- Performance engineering
-
-</details>
+</div>
