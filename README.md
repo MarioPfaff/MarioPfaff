@@ -87,6 +87,5 @@ interacts with hardware.
   - Computer architecture
   - Hardware/software integration
   - Performance engineering
-  - Audio synthesis
 
 </details>
