@@ -33,11 +33,3 @@ Azure · Linux · Docker · Git · GitHub Actions
 
 **Currently Exploring**  
 C++ · ESP-IDF · Embedded Systems
-
----
-
-<div align="center">
-
-*Interested in software architecture, systems programming, and engineering.*
-
-</div>
