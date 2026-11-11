@@ -16,44 +16,27 @@ Architecture · Reliability · Maintainable Systems
 
 ## About Me
 
-I'm a backend engineer working primarily with PHP, Laravel,
-PostgreSQL, and Redis.
+I'm a backend engineer working primarily with PHP, Laravel, PostgreSQL, and Redis.
 
-My professional experience includes designing and maintaining
-production applications, API integrations, database architecture,
-automated testing, CI/CD, and backend infrastructure.
+My professional experience includes designing and maintaining production applications, API integrations, database architecture, automated testing, CI/CD, and backend infrastructure.
 
-I started programming at eleven, experimenting with small 2D games
-using BYOND's Dream Maker language.
+I started programming at eleven, experimenting with small 2D games using BYOND's Dream Maker language.
 
-Today, I'm increasingly interested in low-level programming,
-computer architecture, and understanding how software
-interacts with hardware.
+Today, I'm increasingly interested in low-level programming, computer architecture, and understanding how software interacts with hardware.
 
 ## Technology Stack
 
-<table>
-  <tr>
-    <th>Area</th>
-    <th>Technologies</th>
-  </tr>
-  <tr>
-    <td>Backend</td>
-    <td>PHP, Laravel, PostgreSQL, Redis</td>
-  </tr>
-  <tr>
-    <td>Frontend</td>
-    <td>Vue.js, TypeScript, Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td>Infrastructure</td>
-    <td>Azure, Linux, Docker, GitHub Actions</td>
-  </tr>
-  <tr>
-    <td>Exploring</td>
-    <td>C++, ESP-IDF, Embedded Systems</td>
-  </tr>
-</table>
+**Backend & Databases**  
+PHP · Laravel · PostgreSQL · Redis
+
+**Frontend**  
+Vue.js · TypeScript · Tailwind CSS
+
+**Infrastructure & Tooling**  
+Azure · Linux · Docker · GitHub Actions
+
+**Currently Exploring**  
+C++ · ESP-IDF · Embedded Systems
 
 ## Featured Project
 
@@ -64,11 +47,11 @@ An ongoing embedded C++ synthesizer project using the ESP32.
 Exploring firmware development, hardware interfaces, digital audio, and electronics.
 
 <details>
-  <summary><b>More about my technical interests</b></summary>
+<summary><b>More about my technical interests</b></summary>
 
-  - Systems programming
-  - Computer architecture
-  - Hardware/software integration
-  - Performance engineering
+- Systems programming
+- Computer architecture
+- Hardware/software integration
+- Performance engineering
 
 </details>
