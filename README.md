@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 # Mario Pfaff
 
@@ -58,27 +57,11 @@ interacts with hardware.
 
 ## Featured Project
 
-<table>
-  <tr>
-    <td width="65%">
-      <h3>Frankensynth</h3>
-      <p>
-        An ongoing embedded C++ synthesizer project
-        using the ESP32.
-      </p>
-      <p>
-        Exploring firmware development, hardware
-        interfaces, digital audio, and electronics.
-      </p>
-    </td>
-    <td width="35%">
-      <!-- Add a photograph when available -->
-      <p align="center">
-        ESP32 + OLED + Audio
-      </p>
-    </td>
-  </tr>
-</table>
+### Frankensynth
+
+An ongoing embedded C++ synthesizer project using the ESP32.
+
+Exploring firmware development, hardware interfaces, digital audio, and electronics.
 
 <details>
   <summary><b>More about my technical interests</b></summary>
