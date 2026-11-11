@@ -1,7 +1,6 @@
 <div align="center">
 
 # Mario Pfaff
-
 **Software Engineer**
 
 [LinkedIn](https://linkedin.com/in/mario-pfaff-1768061ba/) · [Email](mailto:mariojuliaanpfaff@gmail.com)
