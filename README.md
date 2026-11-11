@@ -4,8 +4,6 @@
 
 **Software Engineer**
 
-Architecture · Reliability · Maintainability
-
 [LinkedIn](https://linkedin.com/in/mario-pfaff-1768061ba/) · [Email](mailto:mariojuliaanpfaff@gmail.com)
 
 </div>
