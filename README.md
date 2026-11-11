@@ -22,7 +22,7 @@ Today, I work primarily with PHP and Laravel, developing integration and automat
 
 Outside of work, I'm exploring embedded C++, low-level programming, and the intersection of software and hardware.
 
-## Technical Experience
+## Experience
 
 **Backend & Databases**  
 PHP · Laravel · PostgreSQL · Redis
