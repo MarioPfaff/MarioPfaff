@@ -16,7 +16,7 @@ Architecture · Reliability · Maintainability
 
 I'm a software engineer interested in back-end systems, software architecture, and developer tooling.
 
-My interest in programming began at eleven, when I started experimenting with 2D games using Dream Maker, BYOND's object-oriented scripting language for developing multiplayer games. What started as curiosity eventually developed into a professional career in software engineering.
+My interest in programming was sparked at the age of eleven, when I started experimenting with 2D games using Dream Maker, BYOND's object-oriented scripting language for developing multiplayer games. What started as curiosity eventually developed into a professional career in software engineering.
 
 Today, I work primarily with PHP and Laravel, developing integration and automation systems, reusable application infrastructure, and tooling for automated testing and static analysis.
 
