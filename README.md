@@ -14,11 +14,13 @@ Architecture · Reliability · Maintainability
 
 ## About Me
 
-I'm a backend software engineer working primarily with PHP, Laravel, PostgreSQL, and Redis. My professional experience includes designing and maintaining production applications, developing API integrations, improving software architecture, and working with automated testing, CI/CD, and infrastructure.
+I'm a software engineer interested in back-end systems, software architecture, and developer tooling.
 
-My interest in programming started at eleven, when I began experimenting with small 2D games using BYOND's Dream Maker language. What began as curiosity eventually developed into a professional career in software engineering.
+My interest in programming began at eleven, when I started experimenting with 2D games using Dream Maker, an object-oriented language for the BYOND game development platform. What started as curiosity eventually developed into a professional career in software engineering.
 
-More recently, I've been exploring low-level programming, computer architecture, and the interaction between software and hardware. I'm currently learning embedded C++ through independent projects, with an interest in understanding and developing the systems that make technology work.
+Today, I work primarily with PHP and Laravel, developing integration and automation systems, reusable application infrastructure, and tooling for automated testing and static analysis.
+
+Outside of work, I'm exploring embedded C++, low-level programming, and how software interacts with hardware.
 
 ## Technical Experience
 
