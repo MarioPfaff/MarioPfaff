@@ -20,7 +20,7 @@ My interest in programming was sparked when I was eleven, as I experimented with
 
 Today, I work primarily with PHP and Laravel, developing integration and automation systems, reusable application infrastructure, and tooling for automated testing and static analysis.
 
-Outside of work, I'm exploring embedded C++, low-level programming, and how software interacts with hardware.
+Outside of work, I'm exploring embedded C++, low-level programming, and the intersection of software and hardware.
 
 ## Technical Experience
 
